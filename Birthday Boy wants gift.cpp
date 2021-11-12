@@ -7,7 +7,6 @@
             ************************
             ************************
 */
-//Link: https://discuss.codechef.com/t/chstr-editorial/11135 
 #include<bits/stdc++.h>
 using namespace std;
 #define fr(x,s,e) for(ll x = s; x < e; ++x)
